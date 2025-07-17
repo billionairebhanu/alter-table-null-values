@@ -5,6 +5,8 @@ learn about alter table/null values in sql
 
 -- Learn to alter table and null values
 
+drop table flipkart_orders;
+
 create table flipkart_orders
 (
 order_Id int,
